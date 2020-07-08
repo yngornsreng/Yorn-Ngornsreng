@@ -1,0 +1,16 @@
+body {
+    padding-bottom: 20px;
+}
+
+.navbar {
+    margin-bottom: 0px;
+    border-radius: 0;
+}
+
+.siteContent {
+    padding: 15px;
+}
+
+.row {
+    padding-bottom: 20px;
+}
